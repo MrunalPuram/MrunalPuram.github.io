@@ -9,6 +9,16 @@ redirect_from:
 ---
 I am an EECS junior seeking opportunity to develop and apply skills that I learned in class towards real-world applications, while working in a collaborative and team environment.	
 
+## iOS Decal Final Project: Check-Mate
+Worked with Ethan Shang, Amy Hung, and Paxtan Laker to create a bill-splitting app for our final project. Won the **Most Innovative Design Award**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJVTyibOoyw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## High School Robotics
+Spent 3 years participating in the DVHS Robotics Club. Was Captain for Team 5776Z, which competed in the VEX Robotics Competitions. We qualified for the VEX World Championships in 2016.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VzkK5Q7ddVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Courses Taken
 - CS 61A: Structure and Interpretation of Computer Programs
 - CS 61B: Data Structures
